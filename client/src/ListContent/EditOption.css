@@ -1,0 +1,18 @@
+.iconPlan {
+    font-size: 1.5rem;
+}
+
+.iconPlan:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.containerCreatePlan {
+    padding: 2rem;
+    padding-left: 25rem;   
+}
+
+.planOption {
+    margin: 2rem;
+    padding: 1rem;
+}

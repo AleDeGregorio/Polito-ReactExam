@@ -1,0 +1,14 @@
+.head-text {
+    color: white;
+    font-size: 1.3rem;
+}
+
+.head-text:hover {
+    cursor: pointer;
+    color: red;
+}
+
+.personIcon {
+    color: white;
+    font-size: 2rem;
+}
